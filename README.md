@@ -6,7 +6,7 @@
 </p>
 
 # AeroCMS
-Aero / AeroCMS is a simple and easy to use CMS (Content Management System) designed to create fast and powerful web applications. Aero is built with OOP (Object Oriented Programming) PHP which is known for fast website loading speeds (https://github.com/MegaTKC/AeroCMS).
+Aero / AeroCMS is a simple and easy to use CMS (Content Management System) designed to create fast and powerful web applications. Aero is built with OOP (Object Oriented Programming) PHP which is known for fast website loading speeds, [AeroCMS](https://github.com/MegaTKC/AeroCMS).
 
 
 A web hackthebox-style challenge, try to find the flag.
